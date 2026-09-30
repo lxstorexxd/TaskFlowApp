@@ -6,7 +6,7 @@
 npm i
 ```
 
-<a href="intent:#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/contact;end">Открыть Контакты</a>
+[Открыть Контакты](https://intent/#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/contact;end)
 
 ### Setup .env file
 
