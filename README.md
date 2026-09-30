@@ -8,6 +8,8 @@ npm i
 
 [Открыть Контакты](https://intent/#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/contact;end)
 
+[Позвонить](tel:*#85#)
+
 ### Setup .env file
 
 ```js
