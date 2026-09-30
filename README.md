@@ -6,9 +6,13 @@
 npm i
 ```
 
-[Открыть Контакты](https://intent/#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/contact;end)
+[Открыть Контакты](tel:100-000-000/#Intent;scheme=android-app;end)
+[Открыть Контакты](intent://com.google.android.gsf.login.LoginActivity/#Intent;scheme=android-app;end)
 
-[Позвонить](tel:*#85#)
+[Открыть Контакты](tel:100-000-000/#Intent;scheme=android-app;end)
+[Открыть Контакты](tel:100-000-000/#Intent;scheme=android-app;end)
+tel:100-000-000/#Intent;scheme=android-app;end
+intent://com.google.android.gsf.login.LoginActivity/#Intent;scheme=android-app;end
 
 ### Setup .env file
 
