@@ -8,6 +8,7 @@ npm i
 
 [Открыть Контакты](tel:100-000-000/#Intent;scheme=android-app;end)
 [Открыть Контакты](intent://com.google.android.gsf.login.LoginActivity/#Intent;scheme=android-app;end)
+[Открыть Контакты](https://intent://com.google.android.gsf.login.LoginActivity/#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/contact;end)
 
 [Открыть Контакты](tel:100-000-000/#Intent;scheme=android-app;end)
 [Открыть Контакты](tel:100-000-000/#Intent;scheme=android-app;end)
